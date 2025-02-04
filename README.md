@@ -1,7 +1,7 @@
-# Workshop Spring Boot JPA
+# Web Services
 
 ## Visão Geral
-Bem-vindo ao projeto **Workshop Spring Boot JPA**!  
+Bem-vindo ao projeto **Web Services**!  
 Este projeto foi criado para demonstrar o uso de tecnologias modernas do **Java** para construir uma aplicação robusta e escalável. O foco está na **gestão de produtos e pedidos**, utilizando diversas tecnologias e ferramentas para criar uma solução completa.
 
 ## Tecnologias Utilizadas
